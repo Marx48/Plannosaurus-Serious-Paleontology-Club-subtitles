@@ -1,9 +1,5 @@
-# Plannosaurus-Serious-Paleontology-Club-subtitles
 Unofficial fan-made English subtitles for the short anime Plannosaurus Serious Paleontology Club
 ==================================================
-Plannosaurus Serious Paleontology Club - Subtitles
-==================================================
-
 Language: English (ENG)
 Format: .ass (Advanced SubStation Alpha)
 Author/Translator: [Max48]
