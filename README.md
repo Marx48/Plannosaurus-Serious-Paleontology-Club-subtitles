@@ -9,7 +9,6 @@ English subtitles for "Plannosaurus Serious Paleontology Club/Plannosaurus Gachi
 
 --- TECHNICAL DETAILS ---
 * Video Source: YouTube Official Release
-* Target Video FPS: 23.976 / 29.97 [Ajuste se souber o FPS]
 * Video Link / Reference: https://youtu.be/g-TUjJEya-c
 
 --- FILE LIST ---
