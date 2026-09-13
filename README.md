@@ -9,7 +9,7 @@ English subtitles for "Plannosaurus Serious Paleontology Club/Plannosaurus Gachi
 
 --- TECHNICAL DETAILS ---
 * Video Source: YouTube Official Release
-* Video Link / Reference: https://youtu.be/g-TUjJEya-c
+*
 
 --- FILE LIST ---
 - Plannosaurus EP01 ENG.ass (Episode 1)
