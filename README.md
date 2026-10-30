@@ -23,7 +23,7 @@ Plannosaurus EP01 ENG.ass (Episode 1-12)
 You can download the full batches and video releases on:
 * **[Google Drive](https://drive.google.com/drive/folders/1PhsGATPCSZfC1kXaNDaTf_gip7SvbIXT?usp=drive_link)**
 * **[Nekobt](https://nekobt.to/media/s9474)**
-* **[AnimeTosho](https://animetosho.net/series/20191)**
+* **[AnimeTosho](https://animetosho.net/series/20191?gid=19174&order=&disp=)**
 
 --- CONTACT / FEEDBACK ---
 For corrections, sync issues, or feedback, contact:
